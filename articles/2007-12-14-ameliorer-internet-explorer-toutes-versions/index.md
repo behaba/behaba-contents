@@ -1,0 +1,6 @@
+---
+title: Améliorer Internet Explorer (toutes versions)
+---
+Dean Edwards est un génie. Internet Explorer a toujours été réputé pour être un navigateur très en retard sur les autres. Un grand nombre de sélecteurs et de propriétés <abbr title="Cascading Style Sheets">CSS</abbr> ne fonctionnent tout simplement pas sous les versions inférieures à IE7. C'est là que Dean Edwards entre en jeu. Ce programmeur a conçu une véritable librairie permettant d'émuler par le biais de fonctions javascript, les fonctionnalités <abbr title="Cascading Style Sheets">CSS</abbr> 2 absentes de IE. A l'origine, son objectif était de contrer la pratique des hacks <abbr title="Cascading Style Sheets">CSS</abbr> qui rendent les feuilles de style invalides. Mais il ne s'est pas arrêté là en implémentant certains sélecteur <abbr title="Cascading Style Sheets">CSS</abbr> 3 dans le navigateur certifié Windaube. La dernière version sortie date de août 2005 donc je n'apporte pas une nouveauté, mais ce genre de trésor peut en intéresser un très grand nombre ;)
+
+Vous pouvez télécharger l'ensemble des fichiers sur [son site internet personnel](http://dean.edwards.name/ie7/ "Se rendre sur le site internet personnel de Dean Edwards").
